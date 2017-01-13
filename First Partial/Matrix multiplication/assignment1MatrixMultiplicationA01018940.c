@@ -9,8 +9,8 @@
 int main(){
     int columnA = 3;
     int rowA = columnA;//depending on the number of rows and columns of each matrix these implementation should change
-    int rowB = columnA;
-    int columnB = rowB;
+    int columnB = columnA;
+    int rowB = columnB;
     double matrixA [rowA][columnA];
     float matrixB [rowB][columnB];
     float answer [rowA][columnB];
@@ -26,7 +26,6 @@ int main(){
       }
     }
     fclose(file);//closing file for further use with another file
-
 
     //same process as before only with another file
       file = fopen("matrixB.txt", "r");
