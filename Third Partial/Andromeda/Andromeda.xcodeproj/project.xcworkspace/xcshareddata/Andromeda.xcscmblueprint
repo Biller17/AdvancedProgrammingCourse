@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "125FB41551A9E9988461A962D86CD83D3D29A6B1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F63C36900FF3F95C727421FC194B78357C13BB1B" : 9223372036854775807,
+    "125FB41551A9E9988461A962D86CD83D3D29A6B1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B0AA3D83-C938-4721-9C6F-8284092770EC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F63C36900FF3F95C727421FC194B78357C13BB1B" : "AdvancedProgrammingCourse\/Third%20Partial\/Andromeda\/Andromeda\/",
+    "125FB41551A9E9988461A962D86CD83D3D29A6B1" : "AdvancedProgrammingCourse\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Andromeda",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Third Partial\/Andromeda\/Andromeda.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Biller17\/AdvancedProgrammingCourse.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "125FB41551A9E9988461A962D86CD83D3D29A6B1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Biller17\/Andromeda",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F63C36900FF3F95C727421FC194B78357C13BB1B"
+    }
+  ]
+}
